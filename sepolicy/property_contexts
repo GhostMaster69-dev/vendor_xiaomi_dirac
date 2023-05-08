@@ -1,2 +1,2 @@
 # Dirac
-persist.audio.dirac.                                          u:object_r:dirac_prop:s0
+persist.audio.dirac.                                          u:object_r:vendor_dirac_prop:s0

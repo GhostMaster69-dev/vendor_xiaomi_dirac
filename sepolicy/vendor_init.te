@@ -1,2 +1,2 @@
 # Dirac
-allow vendor_init dirac_prop:property_service set;
+allow vendor_init vendor_dirac_prop:property_service set;
